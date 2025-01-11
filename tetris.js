@@ -6,7 +6,7 @@ const arena = createMatrix(10, 20); // создаём игровое поле
 let score = 0;
 let level = 1;
 let dropCounter = 0;
-let dropInterval = 10000000; // начальная скорость падения
+let dropInterval = 1000; // начальная скорость падения
 
 let lastTime = 0;
 
