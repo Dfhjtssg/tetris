@@ -194,7 +194,7 @@ document.addEventListener('keydown', event => {
     }
 });
 
-resetPlayer();
+//resetPlayer();
 
 function start() {
     // Сброс состояния игры
